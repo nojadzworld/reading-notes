@@ -10,5 +10,8 @@ I believe that the *Growth Mindset* with learning a new skill is in direct corre
 * Know that asking for help will be one of your best tools.
 
 ### About Me
-My name is DaJon Ewing. I'm from :game_die:Las Vegas, NV:game_die:. Here is my [GitHub Profile.](https://github.com/nojadzworld)
+My name is DaJon Ewing. I'm from :game_die:Las Vegas, NV:game_die:. Here is my [GitHub Profile.](https://github.com/nojadzworld) 
+
+![image](https://user-images.githubusercontent.com/123141105/214145025-29bee465-ce60-4257-a401-9411680741de.png)
+
 
