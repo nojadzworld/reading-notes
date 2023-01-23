@@ -1,6 +1,7 @@
 #  reading-notes
 
-## Reading journal for codefellows
+## My reading journal for codefellows
+My name is DaJon Ewing 
 
 * reminder
 * reminder
