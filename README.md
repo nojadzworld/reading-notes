@@ -1,10 +1,11 @@
 # Reading-Notes
 
-Hello! These are my reading notes for Code Fellows
+Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
+
 
 ## Table Of Contents
 
-### Code 102 Reading Notes
+# Code 102 Reading Notes
 
 * [Learning Markdown](./102/learning-markdown.md)
 
@@ -22,7 +23,7 @@ Hello! These are my reading notes for Code Fellows
 
 * [Lesson 8](./102/lesson8.md)
 
-### Code 201 Reading Notes
+# Code 201 Reading Notes
 
 * [Lesson 1](./201/lesson1.md)
 
