@@ -6,10 +6,14 @@
 
 * git status displays the current status while ACP and shows any changes made.
 
-* git add. stages any changes made in the current directory 
+* git add. stages any changes made in the current directory or folder
 
 * git commit -m adds a message to our snapshot we are taking
 
 * git push origin main send the changes to github
 
-## Things i want to know more about Revisions and the cloud.
+* git remote command allows you to view shortnames of remote handles
+
+[Seeing your Remote](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+## Things i want to know more about Revisions and the cloud...
