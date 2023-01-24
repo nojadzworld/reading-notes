@@ -19,5 +19,5 @@
 ### [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 - An example of a file extension would be eg.- file.txt or file.png
 - Linux is case sensitive.
-- If a file requires a space you must seperate it with a quote or escape characters.
+- If a file requires a space you must separate it with a quote or escape characters.
 - Everything is a file in linux.
