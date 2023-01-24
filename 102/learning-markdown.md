@@ -3,6 +3,7 @@
 Markdown is essential in building the foundation for a webpage, this can be accomplished using the basic writing and formatting syntax.
 
 ### Using Headers in Markdown
+
 To create a header use "**#**" starting with one, based on importance/page layout.
 
 ### Text Emphasis
