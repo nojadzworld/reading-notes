@@ -14,8 +14,10 @@
 - Use **Ls** aka **list** to show what is actually within our current location that is being browsed.
 - Use **cd** to move to another directory.
 - **Relative path** is a file location relative to where you are currently are in files.
-- **Absolute path*** is a file location that is in relation to the root of the files
+- **Absolute path** is a file location that is in relation to the root of the files
 
 ### [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 - An example of a file extension would be eg.- file.txt or file.png
-- 
+- Linux is case sensitive.
+- If a file requires a space you must seperate it with a quote or escape characters.
+- Everything is a file in linux.
