@@ -6,6 +6,14 @@
 
  * JavaScript code can be embedded directly into HTML file or include a line of code in html that will include an external JS file 
 
+ * DATA TYPES Numbers, Strings and boolean
+
+ string -->  text
+
+ boolean --> true or false
+
+
+
  ## 1.How Computers work.
 
 * Computers all work on a 4 step process Input, Storage, Processing and Output.
