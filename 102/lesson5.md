@@ -38,3 +38,5 @@ h1 {color: red;
 [CSS Color Property](https://www.w3schools.com/cssref/pr_text_color.php)
 
 [Hex Color Tool](https://www.google.com/search?q=hex+color+picker&oq=hex+co&aqs=chrome.2.0i131i433i512l3j69i57j0i131i433i512l3j0i512j0i131i433i512j0i512.3253j0j4&sourceid=chrome&ie=UTF-8)
+
+## Things I want to know more about CSS..
