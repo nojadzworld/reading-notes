@@ -27,6 +27,10 @@ h1 {color: red;
 
 * < link rel='stylesheet' href='mystyle.css' > ^ The link element is used to link your external style sheet file with your HTML file inside the head element.
 
+* float property to move elements around
+* id =  #
+* class = .
+
 ## Adding Color Properties
 
 * The color property is used along with either a HEX value, RGB or a RGBA value
