@@ -14,6 +14,8 @@
 
 
 
+
+
  ## 1.How Computers work.
 
 * Computers all work on a 4 step process Input, Storage, Processing and Output.
@@ -31,5 +33,4 @@
 ## 3. Software & Hardware
 
 * Hardware is controlled by binary
-
 
