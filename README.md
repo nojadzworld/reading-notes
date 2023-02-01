@@ -2,10 +2,9 @@
 
 Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
-
 ## Table Of Contents
 
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 * [Learning Markdown](./102/learning-markdown.md)
 
@@ -13,17 +12,17 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Revisions and the Cloud](./102/revisions-and-the-cloud.md)
 
-* [Structure Webpages with html](./102/structure-web-pages-with-html.md)
+* [Structure Webpages with HTML](./102/structure-web-pages-with-html.md)
 
-* [Lesson 5](./102/lesson5.md)
+* [Design Webpages with CSS](./102/design-web-pages-with-css.md)
 
-* [Lesson 6](./102/lesson6.md)
+* [Dynamic Webpages with Javascript](./102/dynamic-web-pages-with-javascript.md)
 
-* [Lesson 7](./102/lesson7.md)
+* [Programming With JavaScript](./102/programming-with-javaScript.md)
 
-* [Lesson 8](./102/lesson8.md)
+* [Operators and Loops](./102/operators-and-loops.md)
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 * [Lesson 1](./201/lesson1.md)
 
@@ -55,7 +54,8 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Lesson 15](./201/lesson15.md)
 
-#### [Stretch Goals](stretch-goals.md)
+## Code 301 - Intermediate Software Development
 
+## Code 401 - Advanced Software Development 
 
-
+### [Stretch Goals](stretch-goals.md)
