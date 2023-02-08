@@ -74,3 +74,5 @@
 * && or (AND) lets you chain expressions together so that both need to be true for the entire thing to be true
 
 * || or (OR) lets you chain expressions together and one or even more of them need to be true to be true.
+
+* NOT or ! opposite of whatever it is in front of.  ex. // !true === false
