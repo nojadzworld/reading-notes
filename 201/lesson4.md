@@ -36,3 +36,11 @@
  2. What is the difference between a parameter and an argument?
 **it is the same thing**
 
+## Two benefits to pair programming
+
+ 1. Learning from fellow students
+
+ 2. Engaged collaboration
+
+ Collaborating with classmates while programming is one of the best ways to learn from fellow students. Every student doesent do things the same way and thats a great way to learn.
+ 
