@@ -24,15 +24,15 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 ## Code 201 - Foundations of Software Development
 
-* [Lesson 1](./201/lesson1.md)
+* [Lesson 1](./201/class-01.md)
 
-* [Lesson 2](./201/lesson2.md)
+* [Basics of HTML,CSS and JS](./201/class02-basics-of-html-css-js.md)
 
-* [Lesson 3](./201/lesson3.md)
+* [ HTML Lists, Control Flow with JS, and the CSS Box Model](./201/class03-hmtl-lists-control-flow-with-js-and-the-css-box-model.md)
 
-* [Lesson 4](./201/lesson4.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](./201/class04-html-links-js-functions-intro-to-css-layout.md)
 
-* [Lesson 5](./201/lesson5.md)
+* [Images, Color, Text](./201/class05-images-color-and-text.md)
 
 * [Lesson 6](./201/lesson6.md)
 
