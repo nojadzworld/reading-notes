@@ -1,7 +1,6 @@
 # JavaScript Object Basics
 
 1. How would you describe an object to a non-technical friend you grew up with?
-
 **an object is like an item or tool that can be utilized like a car**
 
 2. What are some advantages to creating object literals?
@@ -22,6 +21,6 @@
 **Document object model**
 
 2. Briefly describe the relationship between the DOM and JavaScript.
+**Javascript uses the DOM to access the html doc and its contents and elements**
 
-
-## Things I want to know more about...
+## Things I want to know more about
