@@ -34,11 +34,11 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Images, Color, Text](./201/class05-images-color-and-text.md)
 
-* [Lesson 6](./201/lesson6.md)
+* [Problem Domain Objects and the DOM](./201/class06-problem%20domain-objects-and-the-dom.md)
 
-* [Lesson 7](./201/lesson7.md)
+* [Object Oriented Programming HTML Tables](./201/class07-object-oriented-programming-html-tables.md)
 
-* [Lesson 8](./201/lesson8.md)
+* [CSS Layout](./201/lesson8.md)
 
 * [Lesson 9](./201/lesson9.md)
 

@@ -23,4 +23,5 @@ List and describe 3 different semantic HTML elements used in an HTML table.
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 
-*  Prototypes and inheritance are like that screwdriver that you use to fix or add things to something you build. It can do more than one thing and is not limited.
+* Prototypes and inheritance are like that screwdriver that you use to fix or add things to something you build. It can do more than one thing and is not limited.
+
