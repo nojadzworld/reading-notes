@@ -38,9 +38,9 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Object Oriented Programming HTML Tables](./201/class07-object-oriented-programming-html-tables.md)
 
-* [CSS Layout](./201/lesson8.md)
+* [CSS Layout](./201/class08-css-layout.md)
 
-* [Lesson 9](./201/lesson9.md)
+* [Forms and Events](./201/class09-forms-and-events.md)
 
 * [Lesson 10](./201/lesson10.md)
 
