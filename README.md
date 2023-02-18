@@ -42,9 +42,9 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Forms and Events](./201/class09-forms-and-events.md)
 
-* [Lesson 10](./201/lesson10.md)
+* [Debugging](./201//class10-debugging.md)
 
-* [Lesson 11](./201/lesson11.md)
+* [Audio, Video, Images](./201/lesson11.md)
 
 * [Lesson 12](./201/lesson12.md)
 
