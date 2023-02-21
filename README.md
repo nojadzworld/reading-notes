@@ -44,7 +44,7 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Debugging](./201//class10-debugging.md)
 
-* [Audio, Video, Images](./201/lesson11.md)
+* [Audio, Video, Images](./201/class11-audio-video-images.md)
 
 * [Lesson 12](./201/lesson12.md)
 
