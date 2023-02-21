@@ -46,7 +46,7 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Audio, Video, Images](./201/class11-audio-video-images.md)
 
-* [Lesson 12](./201/lesson12.md)
+* [Chart.js, Canvas](./201/class12-chart.js-canvas.md)
 
 * [Lesson 13](./201/lesson13.md)
 
