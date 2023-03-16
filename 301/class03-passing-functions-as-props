@@ -36,10 +36,10 @@ objectFour.laugh() // 😂😂😂😂😂**
 ## How to Pass Functions Between Components
 
 In the video, what is the first step that the developer does to pass functions between components?
-****
+**define the function in the parent component and then pass it down to the child component as a prop.**
 In your own words, what does the increment function do?
-****
+**it is used to target a certain parameter such as a certain name by looping through the array**
 How can you pass a method from a parent component into a child component?
-****
+**define the method pass the method to the child component and access the method in the child component**
 How does the child component invoke a method that was passed to it from a parent component?
-****
+**by using the prop name and necessary agruments**
