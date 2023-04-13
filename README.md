@@ -28,7 +28,7 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 * [Basics of HTML,CSS and JS](./201/class02-basics-of-html-css-js.md)
 
-* [ HTML Lists, Control Flow with JS, and the CSS Box Model](./201/class03-hmtl-lists-control-flow-with-js-and-the-css-box-model.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](./201/class03-hmtl-lists-control-flow-with-js-and-the-css-box-model.md)
 
 * [HTML Links, JS Functions, and Intro to CSS Layout](./201/class04-html-links-js-functions-intro-to-css-layout.md)
 
@@ -56,6 +56,38 @@ Hello! I'm DaJon and these are my notes for my **Code Fellows** courses.
 
 ## Code 301 - Intermediate Software Development
 
-## Code 401 - Advanced Software Development 
+* [INTRO to React and Components](./301/class01-introduction-to-react-and-components.md)
+
+* [State and Props](./301/class02-state-and-props.md)
+
+* [Passing Functions as Props](./301/class03-passing-functions-as-props)
+
+* [React and Forms](./301/class04-%20react-and-forms.md)
+
+* [Putting it all together](./301/class05-putting-it-all-together.md)
+
+* [NODE JS](./301/class06-nodejs.md)
+
+* [REST](./301/class07-REST.md)
+
+* [API's](./301/class08-APIs.md)
+
+* [Functional Programming](./301/class09-functional-programming.md)
+
+* [In Memory Storage](./301/class10-in-memory-storage.md)
+
+* [MONGODB & MONGOOSE](./301/class11-mongodb-and-mongoose.md)
+
+* [CRUD](./301/class12-CRUD.md)
+
+* [MORE CRUD](./301/class13-more-CRUD.md)
+
+* [Diversity Equity Inclusion and Belonging](./301/class14-diversity-equity-inclusion-belonging.md)
+
+* [Authentication](./301/class15-authentication.md)
+
+## Code 401 - Advanced Software Development
+
+* [SQL Practice](./401/sql-practice.md)
 
 ### [Stretch Goals](stretch-goals.md)
