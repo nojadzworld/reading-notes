@@ -30,6 +30,8 @@ The LIMIT will reduce the number of rows to return, and the optional OFFSET will
 
 **Using the JOIN clause in a query, we can combine row data across two separate tables using this unique key.**
 
-![JOIN](img/JOIN.png)
+![JOIN](/imgs/JOIN.png)
+
+![COMPLETION](/imgs/SQLCOMPLETION.png)
 
 [SQLBOLT](https://sqlbolt.com/lesson/select_queries_introduction)
