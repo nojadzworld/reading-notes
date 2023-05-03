@@ -26,4 +26,4 @@ Explain the role of a @Controller class in a Spring MVC application.
 
 What is a model attribute refered to in Thymeleaf?
 
--  context variables.
+- context variables.

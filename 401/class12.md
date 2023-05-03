@@ -25,3 +25,23 @@ Name a downstide of a Spring Data Repository.
 How would you define an operation to find a student based on their name in a repo named StudentRepository which extends JpaRepository?
 
 - findAll(...)
+
+****
+
+CRUD - Create, Read, Update and Delete
+
+Postgres -> SQL -> Structured Query Language
+
+- psql in terminal
+- PgAdmin
+
+JPA (Java Persistence API) + Hibernate 
+
+application.properties
+
+- defining DataSource
+
+PgAdmin
+
+- Open database go to schema and then tables
+- Click on view data button
