@@ -7,3 +7,5 @@
 ## Describe an Activity in your own word
 
 **an Activity in Android development is a self-contained visual component that represents a specific screen or user interface within an application**
+
+
